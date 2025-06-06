@@ -14,12 +14,16 @@
   }
 
   @media (min-width: 1440px) {
-    gap: 90vw;
+    gap: 80vw;
   }
 }
 
 .body {
-  font-size: 3.5vw;
+  font-size: 3.2vw;
+}
+
+.lineMask {
+  overflow: hidden;
 }
 
 .lineMask p {
