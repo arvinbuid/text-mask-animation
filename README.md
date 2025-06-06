@@ -2,7 +2,7 @@
 
 An animation featuring a text sliding effect with a mask, to give the effect of text gradually appearing when in view. Made with Next.js and Motion (prev. Framer Motion).
 
-<!-- GIF here -->
+![Text Mask Animation](./public/text-mask-animation.gif)
 
 ### Usage
 
