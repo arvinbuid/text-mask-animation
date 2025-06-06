@@ -2,13 +2,24 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  gap: 20vw;
   margin-top: 300px;
   margin-bottom: 300px;
+
+  @media (max-width: 480px) {
+    gap: 60vw;
+  }
+
+  @media (max-width: 1439px) {
+    gap: 80vw;
+  }
+
+  @media (min-width: 1440px) {
+    gap: 90vw;
+  }
 }
 
 .body {
-  font-size: 4vw;
+  font-size: 3.5vw;
 }
 
 .lineMask p {
