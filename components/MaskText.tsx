@@ -1,4 +1,4 @@
-import styles from './page.module.css'
+import styles from './masktext.module.css'
 
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
